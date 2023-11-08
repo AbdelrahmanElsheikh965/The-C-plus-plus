@@ -4,17 +4,16 @@ using namespace std;
 
 class Stack
 {
-
-    public:
-
-        int top;
-        int stack_size;
-        int* arr;
+	int top;
+	int stack_size;
+	int* arr;
+	
+    public:        
 
         /* Default Constructor */
         Stack()
         {
-            stack_size  = 5;
+            stack_size  = 5;		// default size is 5
             top         = -1;
             arr         = new int[stack_size]{0};
         }
