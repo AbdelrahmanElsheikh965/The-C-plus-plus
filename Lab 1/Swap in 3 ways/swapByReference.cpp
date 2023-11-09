@@ -2,15 +2,15 @@
 
 using namespace std;
 
-void swapByAddress(int &x, int &y);
+void swapByReference(int &x, int &y);
 
 int main()
 {
    int x = 10, y = 5;
 
-   swapByAddress(x, y);
+   swapByReference(x, y);
 
-   cout<<"-- Swap By Address --\n";
+   cout<<"-- Swap By Reference --\n";
    cout<<"X : "<<x;
    cout<<"\n";
    cout<<"Y : "<<y;
@@ -18,7 +18,7 @@ int main()
    return 0;
 }
 
-void swapByAddress(int &x, int &y)
+void swapByReference(int &x, int &y)
 {
    int temp = x;
    x = y;
