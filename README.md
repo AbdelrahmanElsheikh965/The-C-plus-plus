@@ -1,6 +1,8 @@
 This a repository for some projects about practicing solving different problems in C++ using CodeBlocks IDE
 
 what do you think about C++ ?!
+A Highly recommended fast language and I think it's the best for competitive programming.
+
 
 ## General Good Practices 💪✅
 
