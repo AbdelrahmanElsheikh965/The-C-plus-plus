@@ -3,6 +3,8 @@ This a repository for some projects about practicing solving different problems 
 what do you think about C++ ?!
 A Highly recommended fast language and I think it's the best for competitive programming.
 
+of course there are some other languages i.e. Python, Js or java but this is the most suitable one in this kind of situations
+
 
 ## General Good Practices 💪✅
 
