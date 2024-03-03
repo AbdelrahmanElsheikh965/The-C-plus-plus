@@ -5,6 +5,7 @@ A Highly recommended fast language and I think it's the best for competitive pro
 
 of course there are some other languages i.e. Python, Js or java but this is the most suitable one in this kind of situations
 
+do you agree with me ?!
 
 ## General Good Practices 💪✅
 
