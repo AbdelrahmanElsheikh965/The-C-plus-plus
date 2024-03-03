@@ -1,5 +1,7 @@
 This a repository for some projects about practicing solving different problems in C++ using CodeBlocks IDE
 
+what do you think about C++ ?!
+
 ## General Good Practices 💪✅
 
 ### Why passing string by reference and making it const?
