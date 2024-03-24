@@ -43,4 +43,4 @@ However, within smaller scopes such as functions, using `using namespace std;` m
 
 Therefore, it's a good practice to use the `std::` prefix when referring to entities from the `std` namespace to ensure clarity, readability, and to prevent potential naming collisions.
 
-C++
+C++ is way too fast to execute
