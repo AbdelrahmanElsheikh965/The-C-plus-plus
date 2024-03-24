@@ -42,3 +42,5 @@ By explicitly qualifying `std::string`, you make it clear that `string` belongs 
 However, within smaller scopes such as functions, using `using namespace std;` might be acceptable in some cases where it won't cause ambiguity issues.
 
 Therefore, it's a good practice to use the `std::` prefix when referring to entities from the `std` namespace to ensure clarity, readability, and to prevent potential naming collisions.
+
+C++
